@@ -1,4 +1,3 @@
-Lihardo@Linux-ubuntu:~/Public/cloud2023/containers/docker/case4/app$ cat index.php 
 <?php
 $host = 'mysql1'; // linked container name
 $db   = 'mydb';
